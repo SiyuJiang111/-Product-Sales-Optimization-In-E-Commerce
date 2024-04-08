@@ -1,1 +1,1 @@
-# -Product-Sales-Optimization-In-E-Commerce
+Through a series of big data management and analysis process of data cleaning (Google Colab), data import and storage (HDFS), data query and processing (HBase/Hive/Spark), data visualization (Power BI), Amazon's most and least profitable products for 2020-2021 are found, along with product sales trends, and HBase/Hive/Spark are compared by the way.
